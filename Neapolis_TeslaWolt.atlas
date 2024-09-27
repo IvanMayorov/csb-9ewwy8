@@ -1,0 +1,426 @@
+
+Neapolis_TeslaWolt.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt
+  rotate: true
+  xy: 1151, 105
+  size: 156, 46
+  orig: 156, 46
+  offset: 0, 0
+  index: -1
+belt2
+  rotate: false
+  xy: 781, 5
+  size: 112, 22
+  orig: 112, 22
+  offset: 0, 0
+  index: -1
+body/standard/body
+  rotate: false
+  xy: 398, 206
+  size: 183, 304
+  orig: 183, 304
+  offset: 0, 0
+  index: -1
+body/standard/eyebrow_L
+  rotate: false
+  xy: 269, 55
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+body/standard/eyebrow_R
+  rotate: false
+  xy: 1288, 115
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+body/standard/finger_r
+  rotate: true
+  xy: 1300, 324
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+body/standard/hand_r
+  rotate: true
+  xy: 843, 251
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+body/standard/head
+  rotate: false
+  xy: 1483, 391
+  size: 89, 119
+  orig: 89, 119
+  offset: 0, 0
+  index: -1
+body/standard/nose
+  rotate: false
+  xy: 269, 71
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+body_shirt
+  rotate: false
+  xy: 601, 2
+  size: 178, 247
+  orig: 178, 247
+  offset: 0, 0
+  index: -1
+forearm_R
+  rotate: false
+  xy: 1288, 144
+  size: 58, 130
+  orig: 58, 130
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 1416, 283
+  size: 97, 89
+  orig: 97, 89
+  offset: 0, 0
+  index: -1
+glove_r
+  rotate: false
+  xy: 1507, 317
+  size: 59, 72
+  orig: 59, 72
+  offset: 0, 0
+  index: -1
+hair_02
+  rotate: false
+  xy: 1238, 322
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 1225, 5
+  size: 151, 101
+  orig: 151, 101
+  offset: 0, 0
+  index: -1
+hand/forearm_2_l
+  rotate: false
+  xy: 942, 5
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+hand/glove_l
+  rotate: false
+  xy: 1283, 276
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+hand/upperarm_2_L
+  rotate: true
+  xy: 895, 2
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+hose 3
+  rotate: true
+  xy: 1378, 36
+  size: 114, 113
+  orig: 114, 113
+  offset: 0, 0
+  index: -1
+jacket_L
+  rotate: false
+  xy: 144, 103
+  size: 104, 407
+  orig: 104, 407
+  offset: 0, 0
+  index: -1
+jacket_R01
+  rotate: false
+  xy: 2, 77
+  size: 140, 433
+  orig: 140, 433
+  offset: 0, 0
+  index: -1
+jacket_R02
+  rotate: false
+  xy: 330, 198
+  size: 66, 312
+  orig: 66, 312
+  offset: 0, 0
+  index: -1
+jacket_back
+  rotate: true
+  xy: 583, 251
+  size: 259, 258
+  orig: 259, 258
+  offset: 0, 0
+  index: -1
+jacket_belt
+  rotate: false
+  xy: 1151, 56
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+jacket_pocket
+  rotate: false
+  xy: 1417, 201
+  size: 59, 80
+  orig: 59, 80
+  offset: 0, 0
+  index: -1
+lower_claw_1_glow_2
+  rotate: true
+  xy: 250, 103
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+lower_claw_1_middle
+  rotate: true
+  xy: 1401, 382
+  size: 128, 80
+  orig: 128, 80
+  offset: 0, 0
+  index: -1
+lower_claw_1_plate_1
+  rotate: true
+  xy: 1117, 5
+  size: 48, 104
+  orig: 48, 104
+  offset: 0, 0
+  index: -1
+lower_claw_1_plate_2
+  rotate: true
+  xy: 1346, 279
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+lower_claw_1_plate_3
+  rotate: true
+  xy: 219, 2
+  size: 99, 48
+  orig: 99, 48
+  offset: 0, 0
+  index: -1
+mechanical_arm_l_d
+  rotate: false
+  xy: 330, 154
+  size: 130, 42
+  orig: 130, 42
+  offset: 0, 0
+  index: -1
+mechanical_arm_l_u
+  rotate: true
+  xy: 2, 2
+  size: 73, 215
+  orig: 73, 215
+  offset: 0, 0
+  index: -1
+mechanical_arm_large_d
+  rotate: false
+  xy: 1019, 55
+  size: 130, 197
+  orig: 130, 197
+  offset: 0, 0
+  index: -1
+mechanical_arm_large_u
+  rotate: false
+  xy: 296, 4
+  size: 142, 148
+  orig: 142, 148
+  offset: 0, 0
+  index: -1
+mechanical_arm_r_d
+  rotate: false
+  xy: 1150, 263
+  size: 131, 47
+  orig: 131, 47
+  offset: 0, 0
+  index: -1
+mechanical_arm_r_u
+  rotate: false
+  xy: 1094, 333
+  size: 142, 177
+  orig: 142, 177
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 250, 154
+  size: 356, 78
+  orig: 356, 78
+  offset: 0, 0
+  index: -1
+shin_pants_L
+  rotate: false
+  xy: 781, 29
+  size: 94, 220
+  orig: 94, 220
+  offset: 0, 0
+  index: -1
+shin_pants_R01
+  rotate: false
+  xy: 991, 310
+  size: 101, 200
+  orig: 101, 200
+  offset: 0, 0
+  index: -1
+shoe_L
+  rotate: true
+  xy: 1348, 152
+  size: 125, 67
+  orig: 125, 67
+  offset: 0, 0
+  index: -1
+shoe_R_01
+  rotate: false
+  xy: 1478, 206
+  size: 69, 75
+  orig: 69, 75
+  offset: 0, 0
+  index: -1
+straps_l
+  rotate: false
+  xy: 462, 158
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+straps_r
+  rotate: false
+  xy: 1238, 354
+  size: 72, 156
+  orig: 72, 156
+  offset: 0, 0
+  index: -1
+table/table10
+  rotate: false
+  xy: 923, 254
+  size: 131, 51
+  orig: 131, 51
+  offset: 0, 0
+  index: -1
+table/table11
+  rotate: true
+  xy: 1312, 372
+  size: 138, 87
+  orig: 138, 87
+  offset: 0, 0
+  index: -1
+table/table12
+  rotate: true
+  xy: 1056, 260
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+table/table2
+  rotate: true
+  xy: 877, 46
+  size: 203, 140
+  orig: 203, 140
+  offset: 0, 0
+  index: -1
+table/table3
+  rotate: false
+  xy: 195, 79
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+table/table4
+  rotate: false
+  xy: 144, 78
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+table/table5
+  rotate: false
+  xy: 168, 79
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+table/table6
+  rotate: true
+  xy: 269, 21
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+table/table7
+  rotate: true
+  xy: 498, 172
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+table/table8
+  rotate: true
+  xy: 583, 217
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+table/table9
+  rotate: false
+  xy: 1094, 312
+  size: 128, 19
+  orig: 128, 19
+  offset: 0, 0
+  index: -1
+tablet
+  rotate: false
+  xy: 1493, 134
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+tight_pants_L
+  rotate: false
+  xy: 515, 2
+  size: 84, 202
+  orig: 84, 202
+  offset: 0, 0
+  index: -1
+tight_pants_R
+  rotate: false
+  xy: 843, 307
+  size: 146, 203
+  orig: 146, 203
+  offset: 0, 0
+  index: -1
+upper_claw_4
+  rotate: true
+  xy: 1010, 11
+  size: 33, 105
+  orig: 33, 105
+  offset: 0, 0
+  index: -1
+upperarm_J_L01
+  rotate: false
+  xy: 440, 5
+  size: 73, 147
+  orig: 73, 147
+  offset: 0, 0
+  index: -1
+upperarm_J_R
+  rotate: false
+  xy: 1199, 108
+  size: 87, 153
+  orig: 87, 153
+  offset: 0, 0
+  index: -1
